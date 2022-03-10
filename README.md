@@ -1,6 +1,4 @@
-# Name: Using the AWS CLI to setup EC2.
-Date Written: 23 FEB 2022
-Date Last Tested: 04 MARCH 2022
+# AWS EC2 Setup Aide-mémoire
 
 ## TLDR:
 
